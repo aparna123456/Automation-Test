@@ -3,9 +3,9 @@
 <suite name="Suite123">
   <test thread-count="5" name="Test123">
     <classes>
-      <class name=".Assert_example"/>
+      <class name="Assert_example"/>
        <class name="test.NewTest"/>
-      <class name=".NewTest">
+      <class name="NewTest">
       <methods>
       <include name="f()"></include>
       </methods>
